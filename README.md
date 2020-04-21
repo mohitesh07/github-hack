@@ -8,7 +8,7 @@
 A simple GitHub trick to extrapolate your contribution graph. It should be used for educational purpose only. Not to take unfare advantage over others.
 Make sure you have must have Python 3 installed.
 
-Watch youtube video here ![Link to video](https://youtu.be/gGHLcr3CQos)
+Watch youtube video here [Link to video](https://youtu.be/gGHLcr3CQos)
 
 ```
 python3 --version
